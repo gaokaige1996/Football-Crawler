@@ -10,7 +10,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
-
+#using webdriver open the link of detailed player in each team in each year
 def openweb(link):
     # link = 'https://www.whoscored.com/Regions/108/Tournaments/5/Seasons/6974/Italy-Serie-A'
     chrome_options = webdriver.ChromeOptions()
@@ -21,6 +21,7 @@ def openweb(link):
     driver.maximize_window()
     driver.get(link)
     sleep(3)
+    #not useful in case of Pop-up window
     try:
         driver.find_element_by_xpath("//a[@class = 'banner_continue--2NyXA']").click()
     except:
@@ -44,7 +45,7 @@ def selectcatogory(link, category):
     sleep(5)
     return driver
 
-
+#obtain detailed player information in selected category
 def obtainplayer(driver):
     sleep(5)
     WebDriverWait(driver, 60, 0.5).until(
@@ -55,7 +56,7 @@ def obtainplayer(driver):
         player = i.text
         l.append(player)
     return l
-
+#clean the data format
 def clean_data(l,real):
     for text in l:
         if text == '':
@@ -93,7 +94,7 @@ def clean_data(l,real):
             print(total)
             real.append(total)
 
-
+#main function
 def detail_player(category,link):
     driver = selectcatogory(link,category)
     page  = driver.find_element_by_xpath('//*[@id="statistics-paging-detailed"]/div/dl[2]/dt').text
