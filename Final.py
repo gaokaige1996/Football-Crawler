@@ -26,7 +26,6 @@ def openweb(link):
         driver.find_element_by_xpath("//a[@class = 'banner_continue--2NyXA']").click()
     except:
         pass
-    # driver.find_element_by_xpath("/html/body/div[9]/div[1]/div/div/div[2]/a[2]").click()
     return driver
 
 
@@ -34,8 +33,7 @@ def selectcatogory(link, category):
     driver = openweb(link)
     playerlink = driver.find_element_by_xpath('//*[@id="sub-navigation"]/ul/li[4]/a').get_attribute('href')
     driver.get(playerlink)
-    # detailed = driver.find_element_by_xpath('//*[@id="detailed-statistics-tab"]/a')
-    # detailed.click()
+
     detailed = driver.find_element_by_xpath('//*[@id="detailed-statistics-tab"]/a')
     driver.execute_script("arguments[0].click();", detailed)
     WebDriverWait(driver, 60, 0.5).until(
@@ -56,6 +54,7 @@ def obtainplayer(driver):
         player = i.text
         l.append(player)
     return l
+
 #clean the data format
 def clean_data(l,real):
     for text in l:
@@ -135,13 +134,10 @@ def detail_player(category,link):
 
 
 category = ['tackles','interception','fouls','cards','offsides','clearances','blocks','saves','shots','goals','dribbles','possession-loss','aerial','passes','key-passes','assists']
-#
-# #category = ['tackles','interception','fouls','cards','offsides','clearances','blocks','saves','shots','goals','dribbles','possession-loss','aerial','passes','key-passes','assists']
-ylist = ['2012_2013']
-# #ylist = ['2017_2018', '2016_2017', '2015_2016', '2014_2015', '2013_2014', '2012_2013', '2011_2012', '2010_2011']
-namelist = ['France-Ligue-1']#,'Italy-Serie-A','Spain-La-Liga','Germany-Bundesliga','France-Ligue-1']
-#
-file = open("5.txt")
+ylist = ['2017_2018', '2016_2017', '2015_2016', '2014_2015', '2013_2014', '2012_2013', '2011_2012', '2010_2011']
+namelist = ['England-Premier-League','Italy-Serie-A','Spain-La-Liga','Germany-Bundesliga','France-Ligue-1']
+
+file = open("weblink.txt")##this file is links of each club in each year, can be obtained through running obtian_link.py
 
 real = []
 txtnamel = []
