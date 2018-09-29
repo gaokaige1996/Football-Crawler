@@ -33,7 +33,7 @@ def obtaintable(link):
     driver.quit()
     return l
 
-link = 'https://www.whoscored.com/Regions/252/Tournaments/2/Seasons/6829/England-Premier-League'
+#link = 'https://www.whoscored.com/Regions/252/Tournaments/2/Seasons/6829/England-Premier-League'
 
 ylist = ['2017_2018', '2016_2017', '2015_2016', '2014_2015', '2013_2014', '2012_2013', '2011_2012', '2010_2011']
 namelist = ['England-Premier-League','Italy-Serie-A','Spain-La-Liga','Germany-Bundesliga','France-Ligue-1']
