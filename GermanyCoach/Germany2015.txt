@@ -1,0 +1,33 @@
+7  6  D.Hecking  Wolfsburg  10968  93  0
+13  12  R.Schmidt  BayerLeverkusen  9042  0  0
+26  30  J.Klopp  BorussiaDortmund  7521  280  0
+81  86  M.Weinzierl  Augsburg  4572  280  0
+84  92  M.Gisdol  Hoffenheim  4480  280  0
+98  105  T.Schaaf  EintrachtFrankfurt  4010  280  0
+126  121  C.Streich  Freiburg  3545  0  0
+134  147  R.Zobel  ElGounah  3440  258  0
+178  175  A.Breitenreiter  Paderborn  2890  0  0
+259  250  J.Zinnbauer  (HamburgerSV)  2238  0  0
+301  293  S.Schmid  SeattleSounders  1945  27  23
+318  308  M.Skibbe  Eskişehirspor  1882  0  0
+400  424  F.Foda  SturmGraz  1498  133  0
+443  467  M.Babbel  Luzern  1331  108  0
+475  470  A.Nouri  1213  0  0
+489  483  T.Fink  (APOEL)  1185  0  0
+489  483  T.Fink  (APOEL)  1185  0  0
+499  492  R.Stumpf  (AlShabab)  1163  0  0
+553  548  J.Keller  (Schalke04)  1036  0  0
+598  717  B.Labbadia  HamburgerSV  933  280  0
+637  630  A.Veh  (Stuttgart)  839  0  0
+658  650  M.Krüger  782  0  0
+676  807  M.Frontzeck  Hannover96  746  280  0
+723  716  E.Middendorp  (ChippaUnited)  653  0  0
+733  729  N.Meier  ArminiaBielefeld  627  0  0
+834  829  O.Pfister  (USMAlger)  437  0  0
+854  847  J.Dries  (Sion)  405  0  0
+878  873  R.Dutt  (WerderBremen)  372  0  0
+931  927  M.Pezzaiuoli  (CerezoOsaka)  313  0  0
+1070  1066  M.Weiß  (Oţelul)  156  0  0
+1184  1182  M.Slomka  (HamburgerSV)  93  0  0
+1247  1247  H.Kutlu  52  0  0
+1305  1306  T.Doll  Ferencváros  25  0  0

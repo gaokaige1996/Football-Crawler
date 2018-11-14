@@ -1,0 +1,17 @@
+89  93  G.Potter  ÖstersundsFK  4477  186  0
+115  120  S.Dyche  Burnley  3695  0  0
+147  152  R.Hodgson  CrystalPalace  3078  0  0
+158  156  E.Howe  AFCBournemouth  2939  0  71
+204  206  S.Allardyce  Everton  2482  0  0
+486  488  W.Joyce  MelbourneCity  1092  0  0
+525  552  A.Heath  MinnesotaUnited  964  54  0
+570  502  P.Clement  (SwanseaCity)  852  0  212
+589  592  K.Lowe  PerthGlory  792  0  0
+670  664  I.Burchnall  Viking  589  0  31
+678  685  A.Pardew  (WestBromwichAlbion)  568  0  0
+719  725  D.Unsworth  (Everton)  497  0  0
+720  726  M.Jolley  AFCEskilstuna  496  0  0
+757  724  C.Shakespeare  (LeicesterCity)  426  0  71
+822  835  P.Cook  WiganAthletic  319  0  0
+900  915  M.Miller  Hibernians  220  0  0
+903  0  M.Dempsey  (Start)  217  93  0

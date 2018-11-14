@@ -1,0 +1,16 @@
+13  11  H.Redknapp  TottenhamHotspur  8845  0  300
+40  35  A.Pardew  NewcastleUnited  6500  0  100
+86  83  R.Hodgson  (WestBromwichAlbion)  4700  0  100
+242  240  S.McClaren  Twente  2314  0  0
+354  355  N.Warnock  LeedsUnited  1700  0  0
+406  393  G.Smith  Darlington  1496  0  54
+406  393  G.Smith  Stevenage  1496  0  54
+407  408  C.Brown  1492  0  0
+514  515  T.Butcher  InvernessCT  1131  0  0
+531  428  S.Bruce  (Sunderland)  1100  0  300
+541  537  S.Constantine  NeaSalamis  1075  0  0
+835  836  N.Pearson  LeicesterCity  450  0  0
+866  871  T.Connor  WolverhamptonWanderers  400  0  0
+878  880  G.Stempel  SanFrancisco  384  0  0
+991  994  L.Cowlishaw  RichmondKickers  246  0  0
+1172  1187  P.Cook  AccringtonStanley  86  0  0

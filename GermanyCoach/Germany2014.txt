@@ -1,0 +1,34 @@
+9  9  J.Klopp  BorussiaDortmund  11629  0  0
+23  25  J.Keller  Schalke04  8410  0  0
+41  41  D.Hecking  Wolfsburg  6874  0  0
+45  45  A.Veh  EintrachtFrankfurt  6454  0  0
+49  47  R.Schmidt  Salzburg  6301  0  132
+67  69  T.Tuchel  (Mainz05)  5353  0  0
+72  71  M.Weinzierl  Augsburg  5252  0  0
+81  85  M.Gisdol  Hoffenheim  4851  0  0
+96  97  B.Schuster  Málaga  4500  0  0
+106  110  C.Streich  Freiburg  4333  0  0
+132  139  R.Dutt  WerderBremen  3939  0  0
+213  215  M.Slomka  HamburgerSV  3065  0  0
+254  257  M.Skibbe  Grasshopper  2736  0  0
+275  277  T.Lieberknecht  EintrachtBraunschweig  2525  0  0
+313  276  R.Zobel  ElGounah  2262  0  283
+334  335  T.Schneider  (Stuttgart)  2080  0  0
+391  393  S.Schmid  SeattleSounders  1733  23  0
+403  404  C.Daum  (Bursaspor)  1663  0  0
+479  487  S.Lewandowski  BayerLeverkusen  1313  0  0
+541  545  E.Middendorp  BloemfonteinCeltic  1144  0  0
+551  553  F.Magath  Fulham  1131  0  0
+677  678  R.Maurer  (Xanthi)  817  0  0
+680  679  K.Runjaic  Kaiserslautern  814  0  0
+688  698  E.Lienen  Oţelul  791  29  0
+784  787  U.Rösler  WiganAthletic  565  0  0
+808  810  A.Reutershahn  (Nürnberg)  505  0  0
+871  877  T.Fink  (HamburgerSV)  404  0  0
+871  877  T.Fink  (HamburgerSV)  404  0  0
+873  556  J.Heynckes  (BayernMünchen)  401  0  722
+998  1007  M.Krüger  (AlMerreikh)  248  0  0
+1074  1092  T.Bücker  170  0  0
+1109  1130  F.Kramer  GreutherFürth  136  0  0
+1160  1180  R.Prinzen  101  0  0
+1168  1194  B.Labbadia  (Stuttgart)  98  0  0

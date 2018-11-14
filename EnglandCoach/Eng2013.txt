@@ -1,0 +1,21 @@
+31  28  A.Pardew  NewcastleUnited  7081  0  0
+92  93  S.Allardyce  WestHamUnited  4600  0  0
+134  129  S.McClaren  (Twente)  3866  0  0
+215  206  N.Adkins  Reading  2700  0  0
+257  254  B.McDermott  LeedsUnited  2300  0  0
+260  267  C.Todd  Randers  2289  33  0
+284  286  H.Redknapp  QueensParkRangers  2100  0  0
+420  416  T.Butcher  InvernessCT  1350  0  0
+471  465  C.Brown  1200  0  0
+637  633  P.Mariner  (Toronto)  771  0  0
+642  718  S.Cooper  BuriramUnited  756  189  0
+789  791  M.Appleton  (BlackburnRovers)  450  0  0
+792  793  D.Flitcroft  Barnsley  450  0  0
+863  874  B.Deane  Sarpsborg08  350  25  0
+872  869  S.Constantine  (EthnikosAchna)  333  0  0
+897  887  B.Kidd  ManchesterCity  300  0  0
+970  963  M.Miller  Valletta  224  0  0
+1017  1011  A.Whitbread  PuertoRicoIslanders  176  0  0
+1058  1054  A.Philliskirk  (OldhamAthletic)  150  0  0
+1202  1201  I.Baraclough  SligoRovers  55  0  0
+1252  1254  M.Mulvey  BrisbaneRoar  32  0  0

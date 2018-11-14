@@ -1,0 +1,21 @@
+186  181  E.Howe  AFCBournemouth  2990  0  0
+198  197  S.Dyche  Burnley  2840  0  0
+225  225  C.Shakespeare  LeicesterCity  2606  0  0
+324  327  S.Allardyce  (CrystalPalace)  1838  0  0
+325  328  P.Clement  SwanseaCity  1838  0  0
+362  359  J.Carver  (OmoniaNicosia)  1720  0  0
+364  361  G.Potter  ÖstersundsFK  1703  0  0
+549  536  M.Dempsey  (Djurgården)  1103  0  32
+556  559  A.Pardew  (CrystalPalace)  1078  0  0
+561  565  M.Warburton  NottinghamForest  1066  0  0
+663  661  K.Lowe  PerthGlory  823  0  0
+676  675  M.Phelan  (HullCity)  789  0  0
+740  725  C.Todd  (Esbjerg)  627  0  29
+747  741  L.Clark  Bury  621  0  0
+790  781  D.Buckingham  WellingtonPhoenix  558  0  0
+807  829  A.Heath  MinnesotaUnited  531  76  37
+837  832  M.Jones  488  0  0
+913  907  S.Agnew  Middlesbrough  379  0  0
+964  957  C.Harrison  HartlepoolUnited  326  0  0
+973  968  N.Harris  Millwall  318  0  0
+974  969  D.Cowley  LincolnCity  318  0  0

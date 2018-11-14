@@ -1,0 +1,34 @@
+2  2  C.Ancelotti  (RealMadrid)  15680  300  750
+5  7  M.Allegri  Juventus  11181  514  0
+17  17  V.Montella  Fiorentina  8888  412  0
+44  44  G.Ventura  Torino  6055  0  0
+50  49  S.Pioli  Lazio  5555  0  0
+58  56  R.DiMatteo  Schalke04  5319  0  0
+96  99  G.Gasperini  Genoa  4044  206  0
+118  115  R.Mancini  Internazionale  3686  0  0
+119  126  F.Inzaghi  Milan  3664  206  0
+155  166  E.DiFrancesco  Sassuolo  3150  206  0
+156  150  G.Iachini  Palermo  3150  0  0
+162  160  A.Mandorlini  HellasVerona  3082  68  0
+175  170  A.Stramaccioni  Udinese  2911  0  0
+179  184  M.Sarri  Empoli  2872  68  0
+208  209  R.Maran  Chievo  2670  68  0
+264  259  F.Cannavaro  GuangzhouEvergrande  2198  27  0
+284  279  W.Mazzarri  (Internazionale)  2033  0  0
+287  291  R.Donadoni  Parma  2020  68  0
+315  304  M.Ficcadenti  Tokyo  1899  0  0
+376  372  S.Colantuono  (Atalanta)  1574  0  0
+487  481  N.Napoli  CSMIaşi  1189  0  0
+527  522  D.DiCarlo  Cesena  1094  0  0
+542  528  M.Lippi  (GuangzhouEvergrande)  1053  0  27
+588  613  E.Reja  Atalanta  956  68  0
+610  604  C.Prandelli  (Galatasaray)  907  0  0
+710  799  G.Festa  Cagliari  686  206  0
+768  762  G.Zola  (Cagliari)  548  0  0
+769  763  P.Bisoli  (Cesena)  546  0  0
+850  844  G.Gattuso  (OFI)  410  0  0
+907  902  C.Bergodi  RapidBucureşti  344  0  0
+961  955  E.Corini  (Chievo)  274  0  0
+984  977  C.Gentile  255  0  0
+1018  1016  R.Vanoli  Koper  209  0  0
+1254  1255  A.Greco  49  0  0

@@ -1,0 +1,26 @@
+71  65  G.Monk  SwanseaCity  4856  0  0
+74  71  A.Pardew  CrystalPalace  4782  75  0
+107  100  S.Allardyce  WestHamUnited  3830  0  0
+139  153  N.Pearson  LeicesterCity  3371  260  0
+161  161  S.Bruce  HullCity  3082  87  0
+180  208  S.Dyche  Burnley  2864  260  0
+371  367  H.Redknapp  (QueensParkRangers)  1586  0  0
+399  390  T.Sherwood  AstonVilla  1499  0  0
+412  409  C.Todd  Randers  1443  29  0
+462  455  N.Warnock  (CrystalPalace)  1240  0  0
+533  495  B.Deane  (Sarpsborg08)  1081  0  64
+548  653  J.Carver  NewcastleUnited  1041  260  0
+589  583  C.Ramsey  QueensParkRangers  954  0  0
+734  737  I.Baraclough  Motherwell  625  25  0
+795  787  A.Stubbs  Hibernian  502  0  0
+811  827  A.Heath  OrlandoCity  466  27  0
+862  856  G.Bowyer  BlackburnRovers  390  0  0
+864  858  P.Parkinson  BradfordCity  390  0  0
+864  858  P.Parkinson  390  0  0
+1043  1039  J.Coleman  AccringtonStanley  183  0  0
+1052  1051  K.Millen  CrystalPalace  174  0  0
+1131  1124  L.Cowlishaw  RichmondKickers  115  0  0
+1195  1193  R.Kelly  (WestBromwichAlbion)  87  0  0
+1211  1209  P.Shaw  OrlandoCityII  77  0  0
+1232  1228  A.Weaver  Warriors  64  0  0
+1244  1243  A.Preece  AirbusUK  53  0  0
